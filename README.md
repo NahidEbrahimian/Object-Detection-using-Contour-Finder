@@ -1,13 +1,14 @@
 ## object-detection-using-contour-finder
 
+
 # Crop_MNIST_numbers
 
-Crop all numbers in image and save similar numbers in one path
+- Crop all numbers in image and save similar numbers in one path
 
 ![mnist](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/01Crop_MNIST_numbers/inputs/mnist.png)
 
 
-Result folder:
+- Result folder:
 
 
  .../Result/MNIST/numbers_0/ 0_0.jpg, 1_0.jpg , ..., 500_0.jpg
@@ -17,7 +18,7 @@ Result folder:
  .../Result/MNIST/numbers_9/ 0_9.jpg, 1_9.jpg, ..., 500_9.jpg       
                          
 
- Run the following command:
+- Run the following command:
 
 ```
 !python3 01-Crop_MNIST_numbers.py --MNIST_numbers .../inputs/mnist.png
@@ -28,6 +29,6 @@ Result folder:
 
 # Chess_pieces
 
-Other results in: .../Results/Chess_pieces.
+- Other results in: .../Results/Chess_pieces.
 
 # ![Chess_pieces](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/02chess_pieces/Results/Chess_pieces/1.jpg)
