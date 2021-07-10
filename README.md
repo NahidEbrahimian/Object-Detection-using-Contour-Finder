@@ -16,14 +16,14 @@ Crop all numbers in image and save similar numbers in one path
                          
 #
 
-- Run the following command:
+ Run the following command:
 
 ```
 !python3 01-Crop_MNIST_numbers.py --MNIST_numbers .../inputs/mnist.png
 
 ```
 
-#
+##
 
 - Chess_pieces
 
