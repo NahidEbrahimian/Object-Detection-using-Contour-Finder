@@ -1,6 +1,6 @@
-# object-detection-using-contour-finder
+### object-detection-using-contour-finder
 
-- Crop_MNIST_numbers
+## Crop_MNIST_numbers
 
 Crop all numbers in image and save similar numbers in one path
 
@@ -26,7 +26,7 @@ Result folder:
 
 ##
 
-- Chess_pieces
+## Chess_pieces
 
 Other results in: .../Results/Chess_pieces.
 
