@@ -1,6 +1,6 @@
 # 04noisey_OCR_characters
 
-Crop all characters from noisy image:
+Crop all characters in noisy image:
 
 1. Median filter
 3. **dilation** and **findContours** to extract lines
