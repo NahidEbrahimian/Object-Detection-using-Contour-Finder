@@ -23,4 +23,12 @@ Count the number of object in the image and Crop all character and save it as a 
 
 #
 
-![OCR](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/03object-detection-using-contour-finder/Output/OCR/OCR.jpg)
+- 04noisey_OCR_characters : 
+
+Crop all characters from noisy image and save it as a jpg images
+
+![noisey_OCR](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/04noisey_OCR_characters/Inputs/noisey_OCR.jpg)
+
+#
+
+![noisey_OCR](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/noisey_OCR_characters/noisey_OCR.jpg)
