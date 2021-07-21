@@ -25,7 +25,7 @@ Count the number of object in the image and Crop all character and save it as a 
 
 - 04noisey_OCR_characters : 
 
-Crop all characters from noisy image and save it as a jpg images
+Crop all characters from noisy image
 
 ![noisey_OCR](https://github.com/n-ebrahimian/object-detection-using-contour_finder/blob/main/04noisey_OCR_characters/Inputs/noisey_OCR.jpg)
 
